@@ -35,7 +35,7 @@ Code examples
 ### CREDITS/CONTACT AUTHOR
 [c]: #creditscontact-author 'Credits & author\'s contacts info '
 
-<pre>    
+<pre>
 Twitter: <a href='https://twitter.com/biteofpie'>BiteOfPie@twitter.com </a>       
 Mail   : <a href='mailto: al.neodim@gmail.com'>Al.neodim@gmail.com     </a>   
 </pre>
