@@ -4,26 +4,30 @@
 
 **[INSTALL][i] | [USAGE][u] | [API][a] | [CREDITS][c] | [CONTRIBUTE][cpl] | [LICENSE][cpl]**
 ## MOTIVATION/DESCRIPTION
-Write_short_description_here
+Keep it simple, stupid!
 
 ```
-  Quick usage example...
+Quick usage example...
 ```
 
 ## INSTALLATION
 [i]: #installation 'Installation guide'
 
+```
+Install me like a boss
+```
+
 
 ## USAGE
 [u]: #usage 'Module usage'
 ```
-  More elaborate use example...
+More elaborate use example...
 ```
 
 
 ### API
 [a]: #api 'Module\'s API description'
-Here API description goes
+Elaborate api descripion here
 ```
 Code examples
 ```
@@ -31,13 +35,13 @@ Code examples
 ### CREDITS/CONTACT AUTHOR
 [c]: #creditscontact-author 'Credits & author\'s contacts info '
 
-<pre>
-GitHub : <a href='https://github.com/hinell'>Hinell@github.com</a>
-Twitter: <a href='https://twitter.com/biteofpie'>BiteOfPie@twitter.com</a>
-Mail   : <a href='mailto: al.neodim@gmail.com'>al.neodim@gmail.com</a>
+<pre>    
+Twitter: <a href='https://twitter.com/biteofpie'>BiteOfPie@twitter.com </a>       
+Mail   : <a href='mailto: al.neodim@gmail.com'>Al.neodim@gmail.com     </a>   
 </pre>
 
 ### CONTRIBUTION, PRODUCTION USE & LICENSE
-[cpl]: #contribution-production-use--license
+
+[cpl]:#contribution-production-use--license 'Contribution guide, usage in production status & license info'
 
 Follow <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
