@@ -67,8 +67,8 @@ As everything is changnign all the time production status of this project and it
 Use of this product is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
 I dont' have much time to eliminate them all but hardly trying to minimize them.
 
-If you want to **help** me or offer a **job** follow [here][c].
-
-This bolierplate is created by Davronov Alexander at 24.5.2017 © All rights reserved.  
+If you want to **help** me or offer a **job** please follow [here][c].
 
 Go back to the **[project description][d]**
+
+This bolierplate is created by Davronov Alexander at 24.5.2017 © All rights reserved.  
