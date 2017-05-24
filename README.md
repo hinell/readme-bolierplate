@@ -35,7 +35,7 @@ More elaborate example will be here soon.
 
 ## API
 [a]: #api 'Module\'s API description'
-**WARNING!:**
+#### WARNING!: This api is subject to change! Make sure you know what you're doing!
 
 Elaborate api description will be soon as well.
 ```
@@ -49,8 +49,8 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 ## ACKNOWLEDGMENTS
 [acc]: acknowledgments
 
-I want to praise the efforts of the people that have<br>
-inspired me while creating this project briefly listing their names and projects below: <br>
+I want to praise the efforts of the people that have inspired me while <br>
+I've been working on this project by briefly mention their names and projects below: <br>
 
 - @PurpleBooth with his readme tempalte posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
