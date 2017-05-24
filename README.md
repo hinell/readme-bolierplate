@@ -45,7 +45,7 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 
 Check out (if any) <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
 
-### PRODUCTION STATUS & SUPPORT [#](/#)
+### PRODUCTION STATUS & SUPPORT [#](#)
 [pb]: #production-status--support
 
 
