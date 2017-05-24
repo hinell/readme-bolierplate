@@ -1,7 +1,7 @@
 <!-- [![Image caption](/project.logo.jpg)](#) -->
 
 # PROJECT
-**[INSTALL][i] | [USAGE][u] | [API][a] | [CREDITS][c] | [CONTRIBUTE][cpl] | [LICENSE][cpl]**
+**[INSTALL][i] | [USAGE][u] | [API][a] | [CREDITS][c] | [CONTRIBUTE][cpl] | [LICENSE][cpl] | [SUPPORT][ps]**
 
 ## DESCRIPTION/MOTIVATION/USE CASE
 [d]: #descriptionmotivationuse-case
@@ -24,7 +24,7 @@ Install me like a boss
 
 
 ## USAGE
-[u]: #usage 'Module usage'
+[u]: #usage 'Product usage'
 ```
 More elaborate example will be here soon.
 ```
@@ -44,15 +44,14 @@ Code examples
 You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](mailto:al.neodim@gmail.com) me.
 
 ### CONTRIBUTION & LICENSE
-[cpl]:#contribution--license 'Contribution guide, usage in production status & license info'
+[cpl]:#contribution--license 'Contribution guide & license info'
 
 Check out (if any) <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
 
 ### PRODUCTION STATUS & SUPPORT
-[pb]: #production-status--support 'Production use disclaimer & support info'
+[ps]: #production-status--support 'Production use disclaimer & support info'
 
-
-As everything is changnign all the time production status and its future development is in permanent question unless stated otherwise.
+As everything is changnign all the time production status of this project and its future development is in permanent question unless stated otherwise.
 Use of this product is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
 I dont' have much time to eliminate them all but hardly trying to minimize them.
 
