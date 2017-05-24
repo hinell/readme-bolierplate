@@ -57,7 +57,7 @@ I've been working on this project by briefly mention their names and projects be
 
 - @PurpleBooth for his readme template posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
-
+- Github guides for their precious [documenting your project](https://guides.github.com/features/wikis/#creating-a-readme) article concirning readme creation
 ## CONTRIBUTION & LICENSE
 [cpl]:#contribution--license 'Contribution guide & license info'
 
