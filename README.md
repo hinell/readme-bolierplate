@@ -66,8 +66,8 @@ Check out (if any) <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/L
 ## PRODUCTION STATUS & SUPPORT
 [ps]: #production-status--support 'Production use disclaimer & support info'
 
-As everything is changnign all the time the production readiness of this project and its future development are
-in permanent question unless it is stated otherwise.
+As everything is changing all the time the production readiness of this project and its future development are
+in permanent question unless it is clearly stated otherwise.
 Use of this product is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
 I dont' have much time to eliminate them all but hardly trying to minimize them.
 
