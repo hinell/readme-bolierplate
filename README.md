@@ -21,13 +21,13 @@ Install me like a boss
 ## USAGE
 [u]: #usage 'Module usage'
 ```
-More elaborate use example...
+More elaborate example will be here soon.
 ```
 
 
 ### API
 [a]: #api 'Module\'s API description'
-Elaborate api descripion here
+Elaborate api descripion will be soon as well.
 ```
 Code examples
 ```
