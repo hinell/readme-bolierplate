@@ -17,6 +17,8 @@ Quick usage example...
 Install me like a boss
 ```
 
+#### ENVIRONMENT REQUIREMENTS (OPTIONAL)
+
 
 ## USAGE
 [u]: #usage 'Module usage'
@@ -39,18 +41,18 @@ Code examples
 You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](mailto:al.neodim@gmail.com) me.
 
 ### CONTRIBUTION & LICENSE
-[cpl]:#contribution-production-use--license 'Contribution guide, usage in production status & license info'
+[cpl]:#contribution--license 'Contribution guide, usage in production status & license info'
 
 Check out (if any) <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
 
-### PRODUCTION USE & BACKING
-Feel free to use this module in your project but probably you want to checkout out the license first.
-Production status and its future development is in question unless indicated otherwise.
-Nobody dedicates its time to or somehow support this project except me.
-Obviosly, use this module is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
-I dont' have much time to eliminate them all but trying hardly to minimize them.
-If you have found one just feel free to open new issue or contact me.
+### PRODUCTION STATUS & SUPPORT [#](/#)
+[pb]: #production-status--support
 
-If you want to help me or just to offet the job follow [here][c].
+
+As everything is changnign all the time production status and its future development is in permanent question unless stated otherwise.
+Use of this product is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
+I dont' have much time to eliminate them all but hardly trying to minimize them.
+
+If you want to **help** me or to offet the **job** you know [where to find me][c].
 
 This bolierplate is created by Davronov Alexander 24.5.2017 © All rights reserved.  
