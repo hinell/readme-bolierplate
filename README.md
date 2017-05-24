@@ -52,7 +52,7 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 I want to praise the efforts of the people that have<br>
 inspired me while creating this project briefly listing their names and projects below: <br>
 
-- @PurpleBooth with his reamde tempalte [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- @PurpleBooth with his readme tempalte posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
 
 ## CONTRIBUTION & LICENSE
