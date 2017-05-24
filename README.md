@@ -12,34 +12,37 @@ Quick usage example...
 ```
 
 ```
-...repeating untill becomes clear.
+...repeating untill it gets clear.
 ```
-
 
 ## GETTING STARTED
 [gt]: #getting-started 'Getting started guide'
 ### REQUIREMENTS
 
+A brief note on environment/machine/tools requisites
+
 ### INSTALLATION
 [i]: #installation 'Installation guide' 
+
 ```
 Installation/deployment example
 ```
 
 ## USAGE
 [u]: #usage 'Product usage'
-```
-More elaborate example will be here soon.
-```
 
+
+```
+Give more elaborate example here.
+```
 
 ## API
 [a]: #api 'Module\'s API description'
-#### WARNING!: This api is subject to change! Make sure you know what you're doing!
 
-Elaborate api description will be soon as well.
+#### WARNING!: This api is subject to change! Make sure you know what you're doing!
+Api description should be given here.
 ```
-Code examples
+Code examples goes... 
 ```
 
 ## CREDITS/CONTACT AUTHOR
@@ -52,7 +55,7 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 I want to praise the efforts of the people that have inspired me while <br>
 I've been working on this project by briefly mention their names and projects below: <br>
 
-- @PurpleBooth with his readme tempalte posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- @PurpleBooth for his readme template posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
 
 ## CONTRIBUTION & LICENSE
