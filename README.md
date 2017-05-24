@@ -40,4 +40,4 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 
 [cpl]:#contribution-production-use--license 'Contribution guide, usage in production status & license info'
 
-Follow (if any present) to the <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
+Check out (if any present) to the <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/LICENSE'>license</a> for more details.
