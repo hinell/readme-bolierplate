@@ -53,7 +53,7 @@ You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](ma
 [acc]: acknowledgments
 
 I want to praise the efforts of the people that have inspired me while <br>
-I've been working on this project by briefly mention their names and projects below: <br>
+I've been working on this project by briefly mention below their names and projects: <br>
 
 - @PurpleBooth for his readme template posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
