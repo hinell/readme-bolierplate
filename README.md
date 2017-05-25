@@ -75,4 +75,4 @@ If you want to **help** me or offer a **job** please follow [here][c].
 
 Go back to the **[project description][d]**
 
-This bolierplate is created by Davronov Alexander at 24.5.2017 © All rights reserved.  
+Copyright © 2017 Davronov Alexander 
