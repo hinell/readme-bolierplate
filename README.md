@@ -1,7 +1,7 @@
 <!-- [![Image caption](/project.logo.jpg)](#) -->
 
 # PROJECT
-**[INSTALL][i] [USAGE][u] [API][a]  [CREDITS][c] [CONTRIBUTE][cpl] [LICENSE][cpl] [SUPPORT][ps]**
+**[INSTALL][i] | [USAGE][u] | [API][a] | [CREDITS][c] | [CONTRIBUTE][cpl] | [LICENSE][cpl] | [SUPPORT][ps]**
 
 [d]: #project
 
