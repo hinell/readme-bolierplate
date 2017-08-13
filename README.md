@@ -14,6 +14,8 @@ Quick usage example...
 ```
 ...repeating untill it gets clear.
 ```
+## THE PROBLEM
+The most convincing example of the problem that your module resolves.
 
 ## GETTING STARTED
 [gt]: #getting-started 'Getting started guide'
