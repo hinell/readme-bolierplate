@@ -1,25 +1,23 @@
 <!-- [![Image caption](/project.logo.jpg)](#) -->
 
 # PROJECT
+[d]: #project
 **[INSTALL][i] | [USAGE][u] | [API][a] | [CREDITS][c] | [CONTRIBUTE][cpl] | [LICENSE][cpl] | [SUPPORT][ps]**
 
-[d]: #project
-
-**KISS** - Keep it simple, stupid!
+> **KISS** - Keep it simple, stupid!
 
 ```
 Quick usage example...
 ```
 
 ```
-...repeating untill it gets clear.
+...repeat until it gets clear.
 ```
-## THE PROBLEM
-The most convincing example of the problem that your module resolves.
+## MOTIVATION
+Description of the problem that your module solves.
 
 ## GETTING STARTED
 [gt]: #getting-started 'Getting started guide'
-### REQUIREMENTS
 
 A brief note on environment/machine/tools requisites
 
@@ -30,7 +28,7 @@ A brief note on environment/machine/tools requisites
 Installation/deployment example
 ```
 
-## USAGE
+### USAGE
 [u]: #usage 'Product usage'
 
 
@@ -41,21 +39,20 @@ Give more elaborate example here.
 ## API
 [a]: #api 'Module\'s API description'
 
-#### WARNING!: This api is subject to change! Make sure you know what you're doing!
+#### WARNING!:   
 Api description should be given here.
 ```
-Code examples goes... 
+Code examples ...
 ```
 
-## CREDITS/CONTACT AUTHOR
-[c]: #creditscontact-author 'Credits & author\'s contacts info '
+## AUTHOR
+[auth]: #author 'Credits & author\'s contacts info '
 You can follow me on [twitter](https://twitter.com/biteofpie) or just [email](mailto:al.neodim@gmail.com) me.
 
 ## ACKNOWLEDGMENTS
 [acc]: acknowledgments
 
-I want to praise the efforts of the people that have inspired me while <br>
-I've been working on this project by briefly mention below their names and projects: <br>
+List of people and project that inspired creation of this one:
 
 - @PurpleBooth for his readme template posted [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - @jxson for his [readme](https://gist.github.com/jxson/1784669) example as well.
@@ -68,12 +65,10 @@ Check out (if any) <a href='/CONTRIBUTION'>contribution guide</a> or <a href='/L
 ## PRODUCTION STATUS & SUPPORT
 [ps]: #production-status--support 'Production use disclaimer & support info'
 
-As everything is changing all the time the production readiness of this project and its future development are
-in permanent question unless it is clearly stated otherwise.
-Use of this product is entirely on your own risk. *Nobody (including me) guarantees that there is no bugs present in the code.*
-I dont' have much time to eliminate them all but hardly trying to minimize them.
+You should be aware that this project is supported solely by me and provided as is.
+<br>If you want to become a **patron** or offer me a **support** please [follow here][auth].
 
-If you want to **help** me or offer a **job** please follow [here][c].
+<hr>
 
 Go back to the **[project description][d]**
 
